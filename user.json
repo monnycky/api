@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "username": "teste1@teste.com",
+	"password": "12345678",
+    "name": "Julia Amaral",
+    "state": "active"
+  },
+  {
+    "id": 2,
+    "username": "teste2@teste.com",
+	"password": "87654321",
+    "name": "Simone Araujo",
+    "state": "active"
+  },
+  {
+    "id": 3,
+    "username": "teste3@teste.com",
+	"password": "23456789",
+    "name": "Aurelio Amaral",
+    "state": "active"
+  }, 
+  {
+    "id": 4,
+    "username": "teste4@teste.com",
+	"password": "34567891",
+    "name": "Amauri Amaral",
+    "state": "active"
+  }, 
+  {
+    "id": 5,
+    "username": "teste5@teste.com",
+	"password": "13579135",
+    "name": "Fernanda Amaral",
+    "state": "active"
+  }, 
+  {
+    "id": 6,
+    "username": "teste6@teste.com",
+	"password": "13579135",
+    "name": "Renata Amaral",
+    "state": "active"
+  }, 
+  {
+    "id": 7,
+    "username": "teste7@teste.com",
+	"password": "13579135",
+    "name": "Elza Araujo",
+    "state": "active"
+  }, 
+  {
+    "id": 8,
+    "username": "teste8@teste.com",
+	"password": "13579135",
+    "name": "Raquel Araujo",
+    "state": "active"
+  }, 
+  {
+    "id": 9,
+    "username": "teste9@teste.com",
+	"password": "13579135",
+    "name": "Isabelly Victoria",
+    "state": "active"
+  }, 
+  {
+    "id": 10,
+    "username": "teste10@teste.com",
+	"password": "13579135",
+    "name": "Stephanie Cirino",
+    "state": "active"
+  }
+  
+]
